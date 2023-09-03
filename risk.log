@@ -1,0 +1,863 @@
+init_game: enter
+init_game: leave 
+Creating players ..
+Creating planet ..........................................
+0: Placing armies .....................
+1: Placing armies .....................
+
+Round [1]
+Player [0] active.
+
+Land=Alaska  Armies=5  Owner=0
+Land=Groenland  Armies=5  Owner=0
+Land=Ontario  Armies=4  Owner=0
+Land=Verenigde-Staten (West)  Armies=6  Owner=0
+Land=Midden-Amerika  Armies=2  Owner=0
+Land=Peru  Armies=2  Owner=0
+Land=Argentinie  Armies=2  Owner=0
+Land=Scandinavie  Armies=3  Owner=0
+Land=Noord Europa  Armies=1  Owner=0
+Land=West Europa  Armies=1  Owner=0
+Land=Noord-Afrika  Armies=1  Owner=0
+Land=Oost-Afrika  Armies=1  Owner=0
+Land=Zuid-Afrika  Armies=1  Owner=0
+Land=Oeral  Armies=1  Owner=0
+Land=Jakoetsk  Armies=1  Owner=0
+Land=Tsjita  Armies=1  Owner=0
+Land=China  Armies=1  Owner=0
+Land=Japan  Armies=1  Owner=0
+Land=India  Armies=1  Owner=0
+Land=Indonesie  Armies=1  Owner=0
+Land=West-Australia  Armies=1  Owner=0
+
+Land=Noord-West-Territoria  Armies=8  Owner=1
+Land=Alberta  Armies=3  Owner=1
+Land=Quebec  Armies=2  Owner=1
+Land=Verenigde-Staten (Oost)  Armies=4  Owner=1
+Land=Venezuela  Armies=6  Owner=1
+Land=Brazilie  Armies=2  Owner=1
+Land=Ijsland  Armies=3  Owner=1
+Land=Groot-Brittannie  Armies=1  Owner=1
+Land=Oost Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=1  Owner=1
+Land=Egypte  Armies=1  Owner=1
+Land=Central-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Kamtsjaka  Armies=1  Owner=1
+Land=Mongolie  Armies=1  Owner=1
+Land=Kazachstan  Armies=1  Owner=1
+Land=Midden-Oosten  Armies=1  Owner=1
+Land=Zuid-Oost Azie  Armies=1  Owner=1
+Land=Nieuw-Guinea  Armies=1  Owner=1
+Land=Oost-Australia  Armies=1  Owner=1
+
+Verenigde-Staten (West) [6|0] attacks Alberta [3|1]
+a1=[6] a2=[2] a3=[1] d1=[4] d2=[1] 
+Verenigde-Staten (West) [6|0] attacks Alberta [1|1]
+a1=[5] a2=[3] a3=[3] d1=[1] d2=[0] WIN.
+Alaska [5|0] attacks Kamtsjaka [1|1]
+a1=[5] a2=[5] a3=[4] d1=[5] d2=[0] 
+Groenland [5|0] attacks Ijsland [3|1]
+a1=[4] a2=[2] a3=[2] d1=[6] d2=[4] 
+Alaska [4|0] attacks Kamtsjaka [1|1]
+a1=[6] a2=[6] a3=[2] d1=[1] d2=[0] WIN.
+Ontario [4|0] attacks Quebec [2|1]
+a1=[6] a2=[5] a3=[1] d1=[6] d2=[4] 
+Verenigde-Staten (West) [4|0] attacks Verenigde-Staten (Oost) [4|1]
+a1=[6] a2=[4] a3=[2] d1=[3] d2=[2] 
+Verenigde-Staten (West) [4|0] attacks Verenigde-Staten (Oost) [2|1]
+a1=[6] a2=[3] a3=[2] d1=[2] d2=[1] WIN.
+Groenland [3|0] attacks Ijsland [3|1]
+a1=[5] a2=[1] a3=[0] d1=[3] d2=[1] 
+Ontario [3|0] attacks Quebec [1|1]
+a1=[4] a2=[4] a3=[0] d1=[6] d2=[0] 
+Verenigde-Staten (Oost) [3|0] attacks Quebec [1|1]
+a1=[3] a2=[1] a3=[0] d1=[5] d2=[0] 
+Scandinavie [3|0] attacks Groot-Brittannie [1|1]
+a1=[6] a2=[4] a3=[0] d1=[4] d2=[0] WIN.
+Kamtsjaka [3|0] attacks Mongolie [1|1]
+a1=[5] a2=[4] a3=[0] d1=[3] d2=[0] WIN.
+Groenland [2|0] attacks Ijsland [2|1]
+a1=[2] a2=[0] a3=[0] d1=[2] d2=[1] 
+Alberta [2|0] attacks Noord-West-Territoria [8|1]
+a1=[1] a2=[0] a3=[0] d1=[5] d2=[4] 
+Ontario [2|0] attacks Quebec [1|1]
+a1=[3] a2=[0] a3=[0] d1=[5] d2=[0] 
+Verenigde-Staten (Oost) [2|0] attacks Quebec [1|1]
+a1=[1] a2=[0] a3=[0] d1=[2] d2=[0] 
+Midden-Amerika [2|0] attacks Venezuela [6|1]
+a1=[2] a2=[0] a3=[0] d1=[6] d2=[2] 
+Peru [2|0] attacks Brazilie [2|1]
+a1=[6] a2=[0] a3=[0] d1=[6] d2=[6] 
+Argentinie [2|0] attacks Oost-Australia [1|1]
+a1=[4] a2=[0] a3=[0] d1=[4] d2=[0] 
+Groot-Brittannie [2|0] attacks Ijsland [2|1]
+a1=[6] a2=[0] a3=[0] d1=[5] d2=[1] 
+Groot-Brittannie [2|0] attacks Ijsland [1|1]
+a1=[3] a2=[0] a3=[0] d1=[6] d2=[0] 
+Mongolie [2|0] attacks Siberie [1|1]
+a1=[1] a2=[0] a3=[0] d1=[1] d2=[0] 
+
+Round [2]
+Player [1] active.
+
+Land=Alaska  Armies=1  Owner=0
+Land=Groenland  Armies=1  Owner=0
+Land=Alberta  Armies=1  Owner=0
+Land=Ontario  Armies=1  Owner=0
+Land=Verenigde-Staten (West)  Armies=1  Owner=0
+Land=Verenigde-Staten (Oost)  Armies=1  Owner=0
+Land=Midden-Amerika  Armies=1  Owner=0
+Land=Peru  Armies=1  Owner=0
+Land=Argentinie  Armies=1  Owner=0
+Land=Scandinavie  Armies=1  Owner=0
+Land=Groot-Brittannie  Armies=1  Owner=0
+Land=Noord Europa  Armies=1  Owner=0
+Land=West Europa  Armies=1  Owner=0
+Land=Noord-Afrika  Armies=1  Owner=0
+Land=Oost-Afrika  Armies=1  Owner=0
+Land=Zuid-Afrika  Armies=1  Owner=0
+Land=Oeral  Armies=1  Owner=0
+Land=Jakoetsk  Armies=1  Owner=0
+Land=Kamtsjaka  Armies=1  Owner=0
+Land=Tsjita  Armies=1  Owner=0
+Land=Mongolie  Armies=1  Owner=0
+Land=China  Armies=1  Owner=0
+Land=Japan  Armies=1  Owner=0
+Land=India  Armies=1  Owner=0
+Land=Indonesie  Armies=1  Owner=0
+Land=West-Australia  Armies=1  Owner=0
+
+Land=Noord-West-Territoria  Armies=8  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Venezuela  Armies=6  Owner=1
+Land=Brazilie  Armies=2  Owner=1
+Land=Ijsland  Armies=1  Owner=1
+Land=Oost Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=1  Owner=1
+Land=Egypte  Armies=1  Owner=1
+Land=Central-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Kazachstan  Armies=1  Owner=1
+Land=Midden-Oosten  Armies=1  Owner=1
+Land=Zuid-Oost Azie  Armies=1  Owner=1
+Land=Nieuw-Guinea  Armies=1  Owner=1
+Land=Oost-Australia  Armies=1  Owner=1
+
+Noord-West-Territoria [8|1] attacks Alaska [1|0]
+a1=[6] a2=[4] a3=[3] d1=[2] d2=[0] WIN.
+Venezuela [6|1] attacks Midden-Amerika [1|0]
+a1=[6] a2=[5] a3=[3] d1=[4] d2=[0] WIN.
+Alaska [4|1] attacks Alberta [1|0]
+a1=[4] a2=[2] a3=[2] d1=[4] d2=[0] 
+Noord-West-Territoria [4|1] attacks Groenland [1|0]
+a1=[6] a2=[6] a3=[3] d1=[5] d2=[0] WIN.
+Venezuela [4|1] attacks Peru [1|0]
+a1=[5] a2=[4] a3=[2] d1=[2] d2=[0] WIN.
+Alaska [3|1] attacks Alberta [1|0]
+a1=[6] a2=[1] a3=[0] d1=[5] d2=[0] WIN.
+Groenland [3|1] attacks Ontario [1|0]
+a1=[4] a2=[1] a3=[0] d1=[3] d2=[0] WIN.
+Peru [3|1] attacks Argentinie [1|0]
+a1=[3] a2=[3] a3=[0] d1=[1] d2=[0] WIN.
+Alberta [2|1] attacks Verenigde-Staten (West) [1|0]
+a1=[2] a2=[0] a3=[0] d1=[2] d2=[0] 
+Ontario [2|1] attacks Verenigde-Staten (Oost) [1|0]
+a1=[4] a2=[0] a3=[0] d1=[4] d2=[0] 
+Midden-Amerika [2|1] attacks Verenigde-Staten (West) [1|0]
+a1=[3] a2=[0] a3=[0] d1=[5] d2=[0] 
+Brazilie [2|1] attacks Noord-Afrika [1|0]
+a1=[2] a2=[0] a3=[0] d1=[6] d2=[0] 
+
+Round [3]
+Player [0] active.
+0: 6 extra armies (land)
+0: Check Card 1 0 0
+0: Placing armies ......
+
+Land=Verenigde-Staten (West)  Armies=4  Owner=0
+Land=Verenigde-Staten (Oost)  Armies=2  Owner=0
+Land=Scandinavie  Armies=3  Owner=0
+Land=Groot-Brittannie  Armies=1  Owner=0
+Land=Noord Europa  Armies=1  Owner=0
+Land=West Europa  Armies=1  Owner=0
+Land=Noord-Afrika  Armies=1  Owner=0
+Land=Oost-Afrika  Armies=1  Owner=0
+Land=Zuid-Afrika  Armies=1  Owner=0
+Land=Oeral  Armies=1  Owner=0
+Land=Jakoetsk  Armies=1  Owner=0
+Land=Kamtsjaka  Armies=1  Owner=0
+Land=Tsjita  Armies=1  Owner=0
+Land=Mongolie  Armies=1  Owner=0
+Land=China  Armies=1  Owner=0
+Land=Japan  Armies=1  Owner=0
+Land=India  Armies=1  Owner=0
+Land=Indonesie  Armies=1  Owner=0
+Land=West-Australia  Armies=1  Owner=0
+
+Land=Alaska  Armies=1  Owner=1
+Land=Noord-West-Territoria  Armies=1  Owner=1
+Land=Groenland  Armies=1  Owner=1
+Land=Alberta  Armies=1  Owner=1
+Land=Ontario  Armies=1  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Midden-Amerika  Armies=1  Owner=1
+Land=Venezuela  Armies=1  Owner=1
+Land=Peru  Armies=1  Owner=1
+Land=Brazilie  Armies=1  Owner=1
+Land=Argentinie  Armies=2  Owner=1
+Land=Ijsland  Armies=1  Owner=1
+Land=Oost Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=1  Owner=1
+Land=Egypte  Armies=1  Owner=1
+Land=Central-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Kazachstan  Armies=1  Owner=1
+Land=Midden-Oosten  Armies=1  Owner=1
+Land=Zuid-Oost Azie  Armies=1  Owner=1
+Land=Nieuw-Guinea  Armies=1  Owner=1
+Land=Oost-Australia  Armies=1  Owner=1
+
+Verenigde-Staten (West) [4|0] attacks Alberta [1|1]
+a1=[4] a2=[3] a3=[2] d1=[1] d2=[0] WIN.
+Alberta [3|0] attacks Alaska [1|1]
+a1=[4] a2=[2] a3=[0] d1=[5] d2=[0] 
+Scandinavie [3|0] attacks Ijsland [1|1]
+a1=[6] a2=[1] a3=[0] d1=[5] d2=[0] WIN.
+Alberta [2|0] attacks Alaska [1|1]
+a1=[6] a2=[0] a3=[0] d1=[6] d2=[0] 
+Verenigde-Staten (Oost) [2|0] attacks Ontario [1|1]
+a1=[3] a2=[0] a3=[0] d1=[4] d2=[0] 
+Ijsland [2|0] attacks Groenland [1|1]
+a1=[2] a2=[0] a3=[0] d1=[4] d2=[0] 
+
+Round [4]
+Player [1] active.
+1: 7 extra armies (land)
+1: 2 extra armies (South-America)
+1: Check Card 0 1 0
+1: Placing armies .........
+
+Land=Alberta  Armies=1  Owner=0
+Land=Verenigde-Staten (West)  Armies=1  Owner=0
+Land=Verenigde-Staten (Oost)  Armies=1  Owner=0
+Land=Ijsland  Armies=1  Owner=0
+Land=Scandinavie  Armies=1  Owner=0
+Land=Groot-Brittannie  Armies=1  Owner=0
+Land=Noord Europa  Armies=1  Owner=0
+Land=West Europa  Armies=1  Owner=0
+Land=Noord-Afrika  Armies=1  Owner=0
+Land=Oost-Afrika  Armies=1  Owner=0
+Land=Zuid-Afrika  Armies=1  Owner=0
+Land=Oeral  Armies=1  Owner=0
+Land=Jakoetsk  Armies=1  Owner=0
+Land=Kamtsjaka  Armies=1  Owner=0
+Land=Tsjita  Armies=1  Owner=0
+Land=Mongolie  Armies=1  Owner=0
+Land=China  Armies=1  Owner=0
+Land=Japan  Armies=1  Owner=0
+Land=India  Armies=1  Owner=0
+Land=Indonesie  Armies=1  Owner=0
+Land=West-Australia  Armies=1  Owner=0
+
+Land=Alaska  Armies=4  Owner=1
+Land=Noord-West-Territoria  Armies=3  Owner=1
+Land=Groenland  Armies=4  Owner=1
+Land=Ontario  Armies=2  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Midden-Amerika  Armies=1  Owner=1
+Land=Venezuela  Armies=1  Owner=1
+Land=Peru  Armies=1  Owner=1
+Land=Brazilie  Armies=1  Owner=1
+Land=Argentinie  Armies=2  Owner=1
+Land=Oost Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=1  Owner=1
+Land=Egypte  Armies=1  Owner=1
+Land=Central-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Kazachstan  Armies=1  Owner=1
+Land=Midden-Oosten  Armies=1  Owner=1
+Land=Zuid-Oost Azie  Armies=1  Owner=1
+Land=Nieuw-Guinea  Armies=1  Owner=1
+Land=Oost-Australia  Armies=1  Owner=1
+
+Alaska [4|1] attacks Alberta [1|0]
+a1=[6] a2=[2] a3=[1] d1=[4] d2=[0] WIN.
+Groenland [4|1] attacks Ijsland [1|0]
+a1=[6] a2=[3] a3=[2] d1=[2] d2=[0] WIN.
+Alberta [3|1] attacks Verenigde-Staten (West) [1|0]
+a1=[5] a2=[3] a3=[0] d1=[3] d2=[0] WIN.
+Ijsland [3|1] attacks Scandinavie [1|0]
+a1=[2] a2=[2] a3=[0] d1=[3] d2=[0] 
+Ontario [2|1] attacks Verenigde-Staten (Oost) [1|0]
+a1=[3] a2=[0] a3=[0] d1=[1] d2=[0] WIN.
+Ijsland [2|1] attacks Scandinavie [1|0]
+a1=[5] a2=[0] a3=[0] d1=[2] d2=[0] WIN.
+
+Round [5]
+Player [0] active.
+0: 5 extra armies (land)
+0: Check Card 1 1 0
+0: Placing armies .....
+
+Land=Groot-Brittannie  Armies=4  Owner=0
+Land=Noord Europa  Armies=3  Owner=0
+Land=West Europa  Armies=1  Owner=0
+Land=Noord-Afrika  Armies=1  Owner=0
+Land=Oost-Afrika  Armies=1  Owner=0
+Land=Zuid-Afrika  Armies=1  Owner=0
+Land=Oeral  Armies=1  Owner=0
+Land=Jakoetsk  Armies=1  Owner=0
+Land=Kamtsjaka  Armies=1  Owner=0
+Land=Tsjita  Armies=1  Owner=0
+Land=Mongolie  Armies=1  Owner=0
+Land=China  Armies=1  Owner=0
+Land=Japan  Armies=1  Owner=0
+Land=India  Armies=1  Owner=0
+Land=Indonesie  Armies=1  Owner=0
+Land=West-Australia  Armies=1  Owner=0
+
+Land=Alaska  Armies=1  Owner=1
+Land=Noord-West-Territoria  Armies=3  Owner=1
+Land=Groenland  Armies=1  Owner=1
+Land=Alberta  Armies=1  Owner=1
+Land=Ontario  Armies=1  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Verenigde-Staten (West)  Armies=2  Owner=1
+Land=Verenigde-Staten (Oost)  Armies=1  Owner=1
+Land=Midden-Amerika  Armies=1  Owner=1
+Land=Venezuela  Armies=1  Owner=1
+Land=Peru  Armies=1  Owner=1
+Land=Brazilie  Armies=1  Owner=1
+Land=Argentinie  Armies=2  Owner=1
+Land=Ijsland  Armies=1  Owner=1
+Land=Scandinavie  Armies=1  Owner=1
+Land=Oost Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=1  Owner=1
+Land=Egypte  Armies=1  Owner=1
+Land=Central-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Kazachstan  Armies=1  Owner=1
+Land=Midden-Oosten  Armies=1  Owner=1
+Land=Zuid-Oost Azie  Armies=1  Owner=1
+Land=Nieuw-Guinea  Armies=1  Owner=1
+Land=Oost-Australia  Armies=1  Owner=1
+
+Groot-Brittannie [4|0] attacks Ijsland [1|1]
+a1=[4] a2=[1] a3=[1] d1=[6] d2=[0] 
+Groot-Brittannie [3|0] attacks Ijsland [1|1]
+a1=[3] a2=[1] a3=[0] d1=[1] d2=[0] WIN.
+Noord Europa [3|0] attacks Scandinavie [1|1]
+a1=[6] a2=[4] a3=[0] d1=[4] d2=[0] WIN.
+Ijsland [2|0] attacks Groenland [1|1]
+a1=[3] a2=[0] a3=[0] d1=[6] d2=[0] 
+Scandinavie [2|0] attacks Oost Europa [1|1]
+a1=[1] a2=[0] a3=[0] d1=[1] d2=[0] 
+
+Round [6]
+Player [1] active.
+1: 8 extra armies (land)
+1: 5 extra armies (Nord-America)
+1: 2 extra armies (South-America)
+1: Check Card 1 1 0
+1: Placing armies ...............
+
+Land=Ijsland  Armies=1  Owner=0
+Land=Scandinavie  Armies=1  Owner=0
+Land=Groot-Brittannie  Armies=1  Owner=0
+Land=Noord Europa  Armies=1  Owner=0
+Land=West Europa  Armies=1  Owner=0
+Land=Noord-Afrika  Armies=1  Owner=0
+Land=Oost-Afrika  Armies=1  Owner=0
+Land=Zuid-Afrika  Armies=1  Owner=0
+Land=Oeral  Armies=1  Owner=0
+Land=Jakoetsk  Armies=1  Owner=0
+Land=Kamtsjaka  Armies=1  Owner=0
+Land=Tsjita  Armies=1  Owner=0
+Land=Mongolie  Armies=1  Owner=0
+Land=China  Armies=1  Owner=0
+Land=Japan  Armies=1  Owner=0
+Land=India  Armies=1  Owner=0
+Land=Indonesie  Armies=1  Owner=0
+Land=West-Australia  Armies=1  Owner=0
+
+Land=Alaska  Armies=2  Owner=1
+Land=Noord-West-Territoria  Armies=3  Owner=1
+Land=Groenland  Armies=9  Owner=1
+Land=Alberta  Armies=1  Owner=1
+Land=Ontario  Armies=1  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Verenigde-Staten (West)  Armies=2  Owner=1
+Land=Verenigde-Staten (Oost)  Armies=1  Owner=1
+Land=Midden-Amerika  Armies=1  Owner=1
+Land=Venezuela  Armies=1  Owner=1
+Land=Peru  Armies=1  Owner=1
+Land=Brazilie  Armies=5  Owner=1
+Land=Argentinie  Armies=2  Owner=1
+Land=Oost Europa  Armies=2  Owner=1
+Land=Zuid Europa  Armies=2  Owner=1
+Land=Egypte  Armies=1  Owner=1
+Land=Central-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Kazachstan  Armies=1  Owner=1
+Land=Midden-Oosten  Armies=1  Owner=1
+Land=Zuid-Oost Azie  Armies=1  Owner=1
+Land=Nieuw-Guinea  Armies=1  Owner=1
+Land=Oost-Australia  Armies=1  Owner=1
+
+Groenland [9|1] attacks Ijsland [1|0]
+a1=[6] a2=[6] a3=[4] d1=[2] d2=[0] WIN.
+Brazilie [5|1] attacks Noord-Afrika [1|0]
+a1=[6] a2=[6] a3=[1] d1=[6] d2=[0] 
+Ijsland [5|1] attacks Scandinavie [1|0]
+a1=[6] a2=[3] a3=[1] d1=[4] d2=[0] WIN.
+Brazilie [4|1] attacks Noord-Afrika [1|0]
+a1=[4] a2=[3] a3=[3] d1=[4] d2=[0] 
+Ijsland [4|1] attacks Groot-Brittannie [1|0]
+a1=[6] a2=[6] a3=[2] d1=[5] d2=[0] WIN.
+Brazilie [3|1] attacks Noord-Afrika [1|0]
+a1=[3] a2=[2] a3=[0] d1=[3] d2=[0] 
+Groot-Brittannie [3|1] attacks West Europa [1|0]
+a1=[3] a2=[2] a3=[0] d1=[1] d2=[0] WIN.
+Alaska [2|1] attacks Kamtsjaka [1|0]
+a1=[3] a2=[0] a3=[0] d1=[2] d2=[0] WIN.
+Brazilie [2|1] attacks Noord-Afrika [1|0]
+a1=[5] a2=[0] a3=[0] d1=[5] d2=[0] 
+Oost Europa [2|1] attacks Noord Europa [1|0]
+a1=[6] a2=[0] a3=[0] d1=[4] d2=[0] WIN.
+West Europa [2|1] attacks Noord-Afrika [1|0]
+a1=[6] a2=[0] a3=[0] d1=[5] d2=[0] WIN.
+
+Round [7]
+Player [0] active.
+0: 3 extra armies (land)
+0: Check Card 1 2 0
+0: Placing armies ...
+
+Land=Oost-Afrika  Armies=2  Owner=0
+Land=Zuid-Afrika  Armies=3  Owner=0
+Land=Oeral  Armies=1  Owner=0
+Land=Jakoetsk  Armies=1  Owner=0
+Land=Tsjita  Armies=1  Owner=0
+Land=Mongolie  Armies=1  Owner=0
+Land=China  Armies=1  Owner=0
+Land=Japan  Armies=1  Owner=0
+Land=India  Armies=1  Owner=0
+Land=Indonesie  Armies=1  Owner=0
+Land=West-Australia  Armies=1  Owner=0
+
+Land=Alaska  Armies=1  Owner=1
+Land=Noord-West-Territoria  Armies=3  Owner=1
+Land=Groenland  Armies=4  Owner=1
+Land=Alberta  Armies=1  Owner=1
+Land=Ontario  Armies=1  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Verenigde-Staten (West)  Armies=2  Owner=1
+Land=Verenigde-Staten (Oost)  Armies=1  Owner=1
+Land=Midden-Amerika  Armies=1  Owner=1
+Land=Venezuela  Armies=1  Owner=1
+Land=Peru  Armies=1  Owner=1
+Land=Brazilie  Armies=1  Owner=1
+Land=Argentinie  Armies=2  Owner=1
+Land=Ijsland  Armies=1  Owner=1
+Land=Scandinavie  Armies=1  Owner=1
+Land=Groot-Brittannie  Armies=1  Owner=1
+Land=Noord Europa  Armies=1  Owner=1
+Land=Oost Europa  Armies=1  Owner=1
+Land=West Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=2  Owner=1
+Land=Noord-Afrika  Armies=1  Owner=1
+Land=Egypte  Armies=1  Owner=1
+Land=Central-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Kamtsjaka  Armies=1  Owner=1
+Land=Kazachstan  Armies=1  Owner=1
+Land=Midden-Oosten  Armies=1  Owner=1
+Land=Zuid-Oost Azie  Armies=1  Owner=1
+Land=Nieuw-Guinea  Armies=1  Owner=1
+Land=Oost-Australia  Armies=1  Owner=1
+
+Zuid-Afrika [3|0] attacks Central-Afrika [1|1]
+a1=[4] a2=[2] a3=[0] d1=[1] d2=[0] WIN.
+Oost-Afrika [2|0] attacks Egypte [1|1]
+a1=[2] a2=[0] a3=[0] d1=[2] d2=[0] 
+Central-Afrika [2|0] attacks Noord-Afrika [1|1]
+a1=[3] a2=[0] a3=[0] d1=[6] d2=[0] 
+
+Round [8]
+Player [1] active.
+1: 10 extra armies (land)
+1: 5 extra armies (Nord-America)
+1: 2 extra armies (South-America)
+1: 5 extra armies (Europa)
+1: Check Card 2 1 0
+1: Placing armies ......................
+
+Land=Oost-Afrika  Armies=1  Owner=0
+Land=Central-Afrika  Armies=1  Owner=0
+Land=Zuid-Afrika  Armies=1  Owner=0
+Land=Oeral  Armies=1  Owner=0
+Land=Jakoetsk  Armies=1  Owner=0
+Land=Tsjita  Armies=1  Owner=0
+Land=Mongolie  Armies=1  Owner=0
+Land=China  Armies=1  Owner=0
+Land=Japan  Armies=1  Owner=0
+Land=India  Armies=1  Owner=0
+Land=Indonesie  Armies=1  Owner=0
+Land=West-Australia  Armies=1  Owner=0
+
+Land=Alaska  Armies=1  Owner=1
+Land=Noord-West-Territoria  Armies=3  Owner=1
+Land=Groenland  Armies=4  Owner=1
+Land=Alberta  Armies=1  Owner=1
+Land=Ontario  Armies=1  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Verenigde-Staten (West)  Armies=2  Owner=1
+Land=Verenigde-Staten (Oost)  Armies=1  Owner=1
+Land=Midden-Amerika  Armies=1  Owner=1
+Land=Venezuela  Armies=1  Owner=1
+Land=Peru  Armies=1  Owner=1
+Land=Brazilie  Armies=1  Owner=1
+Land=Argentinie  Armies=2  Owner=1
+Land=Ijsland  Armies=1  Owner=1
+Land=Scandinavie  Armies=1  Owner=1
+Land=Groot-Brittannie  Armies=1  Owner=1
+Land=Noord Europa  Armies=1  Owner=1
+Land=Oost Europa  Armies=4  Owner=1
+Land=West Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=2  Owner=1
+Land=Noord-Afrika  Armies=2  Owner=1
+Land=Egypte  Armies=3  Owner=1
+Land=Madagascar  Armies=5  Owner=1
+Land=Siberie  Armies=3  Owner=1
+Land=Kamtsjaka  Armies=5  Owner=1
+Land=Kazachstan  Armies=3  Owner=1
+Land=Midden-Oosten  Armies=3  Owner=1
+Land=Zuid-Oost Azie  Armies=3  Owner=1
+Land=Nieuw-Guinea  Armies=1  Owner=1
+Land=Oost-Australia  Armies=1  Owner=1
+
+Madagascar [5|1] attacks Zuid-Afrika [1|0]
+a1=[6] a2=[3] a3=[1] d1=[2] d2=[0] WIN.
+Kamtsjaka [5|1] attacks Jakoetsk [1|0]
+a1=[4] a2=[4] a3=[3] d1=[1] d2=[0] WIN.
+Oost Europa [4|1] attacks Oeral [1|0]
+a1=[6] a2=[5] a3=[1] d1=[3] d2=[0] WIN.
+Madagascar [4|1] attacks Oost-Afrika [1|0]
+a1=[6] a2=[4] a3=[4] d1=[3] d2=[0] WIN.
+Kamtsjaka [4|1] attacks Tsjita [1|0]
+a1=[6] a2=[5] a3=[5] d1=[1] d2=[0] WIN.
+Oost-Afrika [3|1] attacks Central-Afrika [1|0]
+a1=[3] a2=[3] a3=[0] d1=[1] d2=[0] WIN.
+Oeral [3|1] attacks China [1|0]
+a1=[3] a2=[2] a3=[0] d1=[3] d2=[0] 
+Siberie [3|1] attacks Mongolie [1|0]
+a1=[5] a2=[3] a3=[0] d1=[2] d2=[0] WIN.
+Kazachstan [3|1] attacks China [1|0]
+a1=[5] a2=[4] a3=[0] d1=[6] d2=[0] 
+Midden-Oosten [3|1] attacks India [1|0]
+a1=[4] a2=[3] a3=[0] d1=[5] d2=[0] 
+Zuid-Oost Azie [3|1] attacks India [1|0]
+a1=[6] a2=[5] a3=[0] d1=[1] d2=[0] WIN.
+Oeral [2|1] attacks China [1|0]
+a1=[6] a2=[0] a3=[0] d1=[4] d2=[0] WIN.
+Mongolie [2|1] attacks Japan [1|0]
+a1=[1] a2=[0] a3=[0] d1=[5] d2=[0] 
+
+Round [9]
+Player [0] active.
+0: 1 extra armies (land)
+0: Check Card 1 3 0
+0: 6 extra armies (3 infanterie)
+0: Placing armies .......
+
+Land=Japan  Armies=4  Owner=0
+Land=Indonesie  Armies=3  Owner=0
+Land=West-Australia  Armies=3  Owner=0
+
+Land=Alaska  Armies=1  Owner=1
+Land=Noord-West-Territoria  Armies=3  Owner=1
+Land=Groenland  Armies=4  Owner=1
+Land=Alberta  Armies=1  Owner=1
+Land=Ontario  Armies=1  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Verenigde-Staten (West)  Armies=2  Owner=1
+Land=Verenigde-Staten (Oost)  Armies=1  Owner=1
+Land=Midden-Amerika  Armies=1  Owner=1
+Land=Venezuela  Armies=1  Owner=1
+Land=Peru  Armies=1  Owner=1
+Land=Brazilie  Armies=1  Owner=1
+Land=Argentinie  Armies=2  Owner=1
+Land=Ijsland  Armies=1  Owner=1
+Land=Scandinavie  Armies=1  Owner=1
+Land=Groot-Brittannie  Armies=1  Owner=1
+Land=Noord Europa  Armies=1  Owner=1
+Land=Oost Europa  Armies=1  Owner=1
+Land=West Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=2  Owner=1
+Land=Noord-Afrika  Armies=2  Owner=1
+Land=Egypte  Armies=3  Owner=1
+Land=Oost-Afrika  Armies=1  Owner=1
+Land=Central-Afrika  Armies=2  Owner=1
+Land=Zuid-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Oeral  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Jakoetsk  Armies=1  Owner=1
+Land=Kamtsjaka  Armies=1  Owner=1
+Land=Tsjita  Armies=3  Owner=1
+Land=Mongolie  Armies=1  Owner=1
+Land=China  Armies=1  Owner=1
+Land=Kazachstan  Armies=2  Owner=1
+Land=Midden-Oosten  Armies=2  Owner=1
+Land=India  Armies=2  Owner=1
+Land=Zuid-Oost Azie  Armies=1  Owner=1
+Land=Nieuw-Guinea  Armies=1  Owner=1
+Land=Oost-Australia  Armies=1  Owner=1
+
+Japan [4|0] attacks Kamtsjaka [1|1]
+a1=[6] a2=[3] a3=[3] d1=[4] d2=[0] WIN.
+Kamtsjaka [3|0] attacks Alaska [1|1]
+a1=[5] a2=[3] a3=[0] d1=[3] d2=[0] WIN.
+Indonesie [3|0] attacks Zuid-Oost Azie [1|1]
+a1=[4] a2=[2] a3=[0] d1=[5] d2=[0] 
+West-Australia [3|0] attacks Nieuw-Guinea [1|1]
+a1=[4] a2=[2] a3=[0] d1=[4] d2=[0] 
+Alaska [2|0] attacks Alberta [1|1]
+a1=[5] a2=[0] a3=[0] d1=[4] d2=[0] WIN.
+Indonesie [2|0] attacks Zuid-Oost Azie [1|1]
+a1=[3] a2=[0] a3=[0] d1=[2] d2=[0] WIN.
+West-Australia [2|0] attacks Nieuw-Guinea [1|1]
+a1=[6] a2=[0] a3=[0] d1=[6] d2=[0] 
+
+Round [10]
+Player [1] active.
+1: 11 extra armies (land)
+1: 2 extra armies (South-America)
+1: 5 extra armies (Europa)
+1: 3 extra armies (Africa)
+1: Check Card 2 2 0
+1: Placing armies .....................
+
+Land=Alaska  Armies=1  Owner=0
+Land=Alberta  Armies=1  Owner=0
+Land=Kamtsjaka  Armies=1  Owner=0
+Land=Japan  Armies=1  Owner=0
+Land=Zuid-Oost Azie  Armies=1  Owner=0
+Land=Indonesie  Armies=1  Owner=0
+Land=West-Australia  Armies=1  Owner=0
+
+Land=Noord-West-Territoria  Armies=9  Owner=1
+Land=Groenland  Armies=4  Owner=1
+Land=Ontario  Armies=5  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Verenigde-Staten (West)  Armies=7  Owner=1
+Land=Verenigde-Staten (Oost)  Armies=1  Owner=1
+Land=Midden-Amerika  Armies=1  Owner=1
+Land=Venezuela  Armies=1  Owner=1
+Land=Peru  Armies=1  Owner=1
+Land=Brazilie  Armies=1  Owner=1
+Land=Argentinie  Armies=2  Owner=1
+Land=Ijsland  Armies=1  Owner=1
+Land=Scandinavie  Armies=1  Owner=1
+Land=Groot-Brittannie  Armies=1  Owner=1
+Land=Noord Europa  Armies=1  Owner=1
+Land=Oost Europa  Armies=1  Owner=1
+Land=West Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=2  Owner=1
+Land=Noord-Afrika  Armies=2  Owner=1
+Land=Egypte  Armies=3  Owner=1
+Land=Oost-Afrika  Armies=1  Owner=1
+Land=Central-Afrika  Armies=2  Owner=1
+Land=Zuid-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Oeral  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Jakoetsk  Armies=5  Owner=1
+Land=Tsjita  Armies=5  Owner=1
+Land=Mongolie  Armies=1  Owner=1
+Land=China  Armies=1  Owner=1
+Land=Kazachstan  Armies=2  Owner=1
+Land=Midden-Oosten  Armies=2  Owner=1
+Land=India  Armies=2  Owner=1
+Land=Nieuw-Guinea  Armies=1  Owner=1
+Land=Oost-Australia  Armies=1  Owner=1
+
+Noord-West-Territoria [9|1] attacks Alaska [1|0]
+a1=[4] a2=[4] a3=[3] d1=[2] d2=[0] WIN.
+Verenigde-Staten (West) [7|1] attacks Alberta [1|0]
+a1=[6] a2=[2] a3=[1] d1=[4] d2=[0] WIN.
+Alaska [5|1] attacks Kamtsjaka [1|0]
+a1=[6] a2=[2] a3=[1] d1=[4] d2=[0] WIN.
+India [2|1] attacks Zuid-Oost Azie [1|0]
+a1=[3] a2=[0] a3=[0] d1=[1] d2=[0] WIN.
+
+Round [11]
+Player [0] active.
+0: 1 extra armies (land)
+0: Check Card 2 0 0
+0: Placing armies .
+
+Land=Japan  Armies=2  Owner=0
+Land=Indonesie  Armies=1  Owner=0
+Land=West-Australia  Armies=1  Owner=0
+
+Land=Alaska  Armies=4  Owner=1
+Land=Noord-West-Territoria  Armies=4  Owner=1
+Land=Groenland  Armies=4  Owner=1
+Land=Alberta  Armies=3  Owner=1
+Land=Ontario  Armies=5  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Verenigde-Staten (West)  Armies=4  Owner=1
+Land=Verenigde-Staten (Oost)  Armies=1  Owner=1
+Land=Midden-Amerika  Armies=1  Owner=1
+Land=Venezuela  Armies=1  Owner=1
+Land=Peru  Armies=1  Owner=1
+Land=Brazilie  Armies=1  Owner=1
+Land=Argentinie  Armies=2  Owner=1
+Land=Ijsland  Armies=1  Owner=1
+Land=Scandinavie  Armies=1  Owner=1
+Land=Groot-Brittannie  Armies=1  Owner=1
+Land=Noord Europa  Armies=1  Owner=1
+Land=Oost Europa  Armies=1  Owner=1
+Land=West Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=2  Owner=1
+Land=Noord-Afrika  Armies=2  Owner=1
+Land=Egypte  Armies=3  Owner=1
+Land=Oost-Afrika  Armies=1  Owner=1
+Land=Central-Afrika  Armies=2  Owner=1
+Land=Zuid-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Oeral  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Jakoetsk  Armies=5  Owner=1
+Land=Kamtsjaka  Armies=1  Owner=1
+Land=Tsjita  Armies=5  Owner=1
+Land=Mongolie  Armies=1  Owner=1
+Land=China  Armies=1  Owner=1
+Land=Kazachstan  Armies=2  Owner=1
+Land=Midden-Oosten  Armies=2  Owner=1
+Land=India  Armies=1  Owner=1
+Land=Zuid-Oost Azie  Armies=1  Owner=1
+Land=Nieuw-Guinea  Armies=1  Owner=1
+Land=Oost-Australia  Armies=1  Owner=1
+
+Japan [2|0] attacks Kamtsjaka [1|1]
+a1=[2] a2=[0] a3=[0] d1=[6] d2=[0] 
+Round [12]
+Player [1] active.
+1: 13 extra armies (land)
+1: 5 extra armies (Nord-America)
+1: 2 extra armies (South-America)
+1: 5 extra armies (Europa)
+1: 3 extra armies (Africa)
+1: Check Card 3 2 0
+1: 8 extra armies (3 cavalerie)
+1: Placing armies ....................................
+
+Land=Japan  Armies=1  Owner=0
+Land=Indonesie  Armies=1  Owner=0
+Land=West-Australia  Armies=1  Owner=0
+
+Land=Alaska  Armies=4  Owner=1
+Land=Noord-West-Territoria  Armies=4  Owner=1
+Land=Groenland  Armies=4  Owner=1
+Land=Alberta  Armies=3  Owner=1
+Land=Ontario  Armies=5  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Verenigde-Staten (West)  Armies=4  Owner=1
+Land=Verenigde-Staten (Oost)  Armies=1  Owner=1
+Land=Midden-Amerika  Armies=1  Owner=1
+Land=Venezuela  Armies=1  Owner=1
+Land=Peru  Armies=1  Owner=1
+Land=Brazilie  Armies=1  Owner=1
+Land=Argentinie  Armies=2  Owner=1
+Land=Ijsland  Armies=1  Owner=1
+Land=Scandinavie  Armies=1  Owner=1
+Land=Groot-Brittannie  Armies=1  Owner=1
+Land=Noord Europa  Armies=1  Owner=1
+Land=Oost Europa  Armies=1  Owner=1
+Land=West Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=2  Owner=1
+Land=Noord-Afrika  Armies=2  Owner=1
+Land=Egypte  Armies=3  Owner=1
+Land=Oost-Afrika  Armies=1  Owner=1
+Land=Central-Afrika  Armies=2  Owner=1
+Land=Zuid-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Oeral  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Jakoetsk  Armies=5  Owner=1
+Land=Kamtsjaka  Armies=9  Owner=1
+Land=Tsjita  Armies=5  Owner=1
+Land=Mongolie  Armies=6  Owner=1
+Land=China  Armies=1  Owner=1
+Land=Kazachstan  Armies=2  Owner=1
+Land=Midden-Oosten  Armies=2  Owner=1
+Land=India  Armies=1  Owner=1
+Land=Zuid-Oost Azie  Armies=8  Owner=1
+Land=Nieuw-Guinea  Armies=10  Owner=1
+Land=Oost-Australia  Armies=8  Owner=1
+
+Nieuw-Guinea [10|1] attacks Indonesie [1|0]
+a1=[4] a2=[3] a3=[2] d1=[5] d2=[0] 
+Kamtsjaka [9|1] attacks Japan [1|0]
+a1=[4] a2=[3] a3=[2] d1=[3] d2=[0] WIN.
+Nieuw-Guinea [9|1] attacks Indonesie [1|0]
+a1=[6] a2=[4] a3=[1] d1=[1] d2=[0] WIN.
+Oost-Australia [8|1] attacks West-Australia [1|0]
+a1=[6] a2=[4] a3=[1] d1=[4] d2=[0] WIN.
+
+Game over
+
+Land=Alaska  Armies=4  Owner=1
+Land=Noord-West-Territoria  Armies=4  Owner=1
+Land=Groenland  Armies=4  Owner=1
+Land=Alberta  Armies=3  Owner=1
+Land=Ontario  Armies=5  Owner=1
+Land=Quebec  Armies=1  Owner=1
+Land=Verenigde-Staten (West)  Armies=4  Owner=1
+Land=Verenigde-Staten (Oost)  Armies=1  Owner=1
+Land=Midden-Amerika  Armies=1  Owner=1
+Land=Venezuela  Armies=1  Owner=1
+Land=Peru  Armies=1  Owner=1
+Land=Brazilie  Armies=1  Owner=1
+Land=Argentinie  Armies=2  Owner=1
+Land=Ijsland  Armies=1  Owner=1
+Land=Scandinavie  Armies=1  Owner=1
+Land=Groot-Brittannie  Armies=1  Owner=1
+Land=Noord Europa  Armies=1  Owner=1
+Land=Oost Europa  Armies=1  Owner=1
+Land=West Europa  Armies=1  Owner=1
+Land=Zuid Europa  Armies=2  Owner=1
+Land=Noord-Afrika  Armies=2  Owner=1
+Land=Egypte  Armies=3  Owner=1
+Land=Oost-Afrika  Armies=1  Owner=1
+Land=Central-Afrika  Armies=2  Owner=1
+Land=Zuid-Afrika  Armies=1  Owner=1
+Land=Madagascar  Armies=1  Owner=1
+Land=Oeral  Armies=1  Owner=1
+Land=Siberie  Armies=1  Owner=1
+Land=Jakoetsk  Armies=5  Owner=1
+Land=Kamtsjaka  Armies=4  Owner=1
+Land=Tsjita  Armies=5  Owner=1
+Land=Mongolie  Armies=6  Owner=1
+Land=China  Armies=1  Owner=1
+Land=Kazachstan  Armies=2  Owner=1
+Land=Japan  Armies=5  Owner=1
+Land=Midden-Oosten  Armies=2  Owner=1
+Land=India  Armies=1  Owner=1
+Land=Zuid-Oost Azie  Armies=8  Owner=1
+Land=Indonesie  Armies=5  Owner=1
+Land=Nieuw-Guinea  Armies=4  Owner=1
+Land=West-Australia  Armies=4  Owner=1
+Land=Oost-Australia  Armies=4  Owner=1
+
+The End [12|49|46]
